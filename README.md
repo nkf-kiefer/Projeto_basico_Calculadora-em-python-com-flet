@@ -1,4 +1,5 @@
-# Calculadora
+# Calculadora 🐍
+
 
 Esta é uma calculadora desenvolvida com **Python** e o framework **Flet**, que inclui funcionalidades extras como:
 - Cálculo de raiz quadrada
